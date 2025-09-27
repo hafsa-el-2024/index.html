@@ -32,6 +32,6 @@
 </head>
 <body>
     <h1> Welcome to My Website </h1>
-    <p>This is my first GitHub Pages site </p>
+    <p>This is my first GitHub Pages site  by Hafsa ElOuassif</p>
 </body>
 </html>
